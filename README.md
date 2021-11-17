@@ -1,2 +1,2 @@
 # Examples
-Examples of codes across multiple languages
+Examples of programs I've written, across multiple languages.
